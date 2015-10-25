@@ -4,10 +4,10 @@
 var myCities = [  //NAME AND BOUNDS OF CITIES 
   {name:"Arlington",bnds:[[48.00,-122],[48.14,-122.22]]},
  ]
-,tblName = "pnw_table_new" // cartoDB table name
-,usrName = "nicholasm" // your cartoDB username
-,brandText = "extPNW" // top left text and link on site
-,brandLink = "http://extentpnw.com" //top left link on site
+,tblName = "arlingtonneighborhood" // cartoDB table name
+,usrName = "kdkelleher" // your cartoDB username
+,brandText = "Arlington, WA" // top left text and link on site
+,brandLink = "http://www.arlingtonwa.gov/" //top left link on site
 ,giturl = "https://github.com/enam/neighborhoods" //Only change this if you want to link to a fork you made, otherwise you can leave the link to the original repo
 ,twiturl = "https://twitter.com/nichom" //Links to my twit acct, change it if you want or remove twitter link altogether
 ,myPath = "http://nicholasm.cartodb.com/api/v2"; //this is the root path to your cartoDB instance with the v2 api param
